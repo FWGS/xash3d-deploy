@@ -3,3 +3,5 @@
 This repo contains autobuilds for development branches.
 
 Switch branch [here](https://github.com/FWGS/xash3d-deploy/branches) to get test version now
+
+[Last uploaded travis build](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
