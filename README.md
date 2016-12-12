@@ -2,4 +2,4 @@
 
 This repo contains autobuilds for development branches.
 
-Switch branch to get test version now
+Switch branch [here](https://github.com/FWGS/xash3d-deploy/branches) to get test version now
