@@ -21,7 +21,7 @@ https://github.com/FWGS/xash3d/network
 
 ## Репорты багов
 
-О найденных проблемах следует писать [сюда](https://github.com/FWGS/xash3d/issues)
+О найденных проблемах следует писать [сюда](https://github.com/FWGS/xash3d/issues) или [сюда](https://vk.com/topic-134898471_34707498)
 
 ## Группа ВКонтакте
 
