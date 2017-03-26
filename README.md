@@ -6,6 +6,8 @@ Switch branch [here](https://github.com/FWGS/xash3d-deploy/branches) to get test
 
 [Last uploaded travis build](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
 
+[Last uploaded optimized android build](https://github.com/FWGS/xash3d-deploy/blob/android-optimized-latest/README.md) (armv6, tegra2, cortex-a15)
+
 You can watch branch network graph here:
 https://github.com/FWGS/xash3d/network
 
