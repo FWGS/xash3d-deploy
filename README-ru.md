@@ -6,12 +6,14 @@
 
 [Последняя сборка](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
 
+[Последняя сборка для MacOSX](https://github.com/FWGS/xash3d-deploy/blob/z_apple-latest/README.md)
+
 График изменений в разных ветках можно увидеть здесь:
 https://github.com/FWGS/xash3d/network
 
 ## Установка и запуск
 
-### Windows/Linux
+### Windows/Linux/MacOSX
 
 Перед первой установкой установите [релизную версию](https://github.com/FWGS/xash3d/releases). Замените файлы новыми версиями
 
