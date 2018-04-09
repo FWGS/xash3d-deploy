@@ -19,7 +19,8 @@ https://github.com/FWGS/xash3d/network
 
 ### Android
 
-Удалите предыдущую версию Xash3D test (in.celest.xash3d.hl.test) перед установкой
+Если при установке произошла ошибка, удалите предыдущую версию Xash3D test (in.celest.xash3d.hl.test)
+В ветках android-optimized доступны сборки под отдельные архитектуры пррцессоров.
 
 ## Репорты багов
 
