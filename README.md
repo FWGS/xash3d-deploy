@@ -2,7 +2,9 @@
 
 This repo contains autobuilds for development branches.
 
-Switch branch [here](https://github.com/FWGS/xash3d-deploy/branches) to get test version now
+**Looking for New Engine autobuilds**? They are moved to GitHub Releases now: https://github.com/FWGS/xash3d-fwgs/releases
+
+Old Engine autobuilds:
 
 [Last uploaded Travis build](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
 
