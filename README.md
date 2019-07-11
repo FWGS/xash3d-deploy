@@ -4,6 +4,8 @@ This repo contains autobuilds for development branches.
 
 **Looking for New Engine autobuilds**? They are moved to GitHub Releases now: https://github.com/FWGS/xash3d-fwgs/releases
 
+**Looking for MainUI C++ for original Xash3D autobuilds**? They are moved to GitHub Releases too! https://github.com/FWGS/mainui_cpp/releases
+
 Old Engine autobuilds:
 
 [Last uploaded Travis build](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
