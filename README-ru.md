@@ -1,31 +1,14 @@
-# Xash3D FWGS test builds
+# Автосборки FWGS
 
-Автоматические сборки Xash3D FWGS
+Этот репозиторий содержит автосборки для различных проектов FWGS.
 
-Переключите ветку [здесь](https://github.com/FWGS/xash3d-deploy/branches) для получеия последней версии
+Сообщайте о проблемах в соответствующий репозиторий проекта.
+Report issues to appropriate project repository.
 
-[Последняя сборка](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
-
-[Последняя сборка для MacOSX](https://github.com/FWGS/xash3d-deploy/blob/z_apple-latest/README.md)
-
-График изменений в разных ветках можно увидеть здесь:
-https://github.com/FWGS/xash3d/network
-
-## Установка и запуск
-
-### Windows/Linux/MacOSX
-
-Перед первой установкой установите [релизную версию](https://github.com/FWGS/xash3d/releases). Замените файлы новыми версиями
-
-### Android
-
-Если при установке произошла ошибка, удалите предыдущую версию Xash3D test (in.celest.xash3d.hl.test)
-В ветках android-optimized доступны сборки под отдельные архитектуры пррцессоров.
-
-## Репорты багов
-
-О найденных проблемах следует писать [сюда](https://github.com/FWGS/xash3d/issues) или [сюда](https://vk.com/topic-134898471_34707498)
-
-## Группа ВКонтакте
-
-https://vk.com/fwgs.testing
+| Проект | Последняя сборка из master |
+| ---------- | ------------------- |
+| [Xash3D FWGS (New Engine)](https://github.com/FWGS/xash3d-fwgs) | [anewengine](https://github.com/FWGS/xash3d-deploy/tree/anewengine-master) |
+| [MainUI C++ (for original Xash3D)](https://github.com/FWGS/mainui_cpp) | [GitHub Releases](https://github.com/FWGS/mainui_cpp/releases/tag/continuous) |
+| [Xash3D FWGS (Old Engine)](https://github.com/FWGS/xash3d-fwgs) | [travis](https://github.com/FWGS/xash3d-deploy/tree/travis-master) |
+| [Xash3D iOS (Old Engine)](https://github.com/mittorn/xash3d-ios) | [ios-port](https://github.com/FWGS/xash3d-deploy/tree/ios-port-master) |
+| [Xash3D OSX (Old Engine)](https://github.com/FWGS/xash3d-fwgs) | [z_apple](https://github.com/FWGS/xash3d-deploy/tree/z_apple-master) 
