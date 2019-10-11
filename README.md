@@ -1,6 +1,8 @@
-# FWGS development builds
+# FWGS Development Builds
 
 This repo contains autobuilds for various FWGS projects.
+
+Report issues to appropriate project repository.
 
 | Project | Latest master build |
 | ---------- | ------------------- |
@@ -9,17 +11,3 @@ This repo contains autobuilds for various FWGS projects.
 | [Xash3D FWGS (Old Engine)](https://github.com/FWGS/xash3d-fwgs) | [travis](https://github.com/FWGS/xash3d-deploy/tree/travis-master) |
 | [Xash3D iOS (Old Engine)](https://github.com/mittorn/xash3d-ios) | [ios-port](https://github.com/FWGS/xash3d-deploy/tree/ios-port-master) |
 | [Xash3D OSX (Old Engine)](https://github.com/FWGS/xash3d-fwgs) | [z_apple](https://github.com/FWGS/xash3d-deploy/tree/z_apple-master) 
-
-## Running
-
-### Windows/Linux/MacOSX
-
-On first setup, download last [release](https://github.com/FWGS/xash3d/releases) and install it before unpacking test version. Replace release version files by files from archive
-
-### Android
-
-Remove any existing Xash3D test (in.celest.xash3d.hl.test) before install
-
-## Reporting issues
-
-Please report issues [here](https://github.com/FWGS/xash3d/issues)
