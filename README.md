@@ -1,21 +1,14 @@
-# Xash3D FWGS test builds
+# FWGS development builds
 
-This repo contains autobuilds for development branches.
+This repo contains autobuilds for various FWGS projects.
 
-**Looking for New Engine autobuilds**? They are moved to GitHub Releases now: https://github.com/FWGS/xash3d-fwgs/releases
-
-**Looking for MainUI C++ for original Xash3D autobuilds**? They are moved to GitHub Releases too! https://github.com/FWGS/mainui_cpp/releases
-
-Old Engine autobuilds:
-
-[Last uploaded Travis build](https://github.com/FWGS/xash3d-deploy/blob/travis-latest/README.md)
-
-[Last uploaded optimized Android build](https://github.com/FWGS/xash3d-deploy/blob/android-optimized-latest/README.md) (for Android project sources, may be old. Use for armv6, tegra2, cortex-a15)
-
-[Last MacOSX autobuild](https://github.com/FWGS/xash3d-deploy/blob/z_apple-latest/README.md)
-
-You can watch branch network graph here:
-https://github.com/FWGS/xash3d/network
+| Project | Latest master build |
+| ---------- | ------------------- |
+| [Xash3D FWGS (New Engine)](https://github.com/FWGS/xash3d-fwgs) | [anewengine](https://github.com/FWGS/xash3d-deploy/tree/anewengine-master) |
+| [MainUI C++ (for original Xash3D)](https://github.com/FWGS/mainui_cpp) | [GitHub Releases](https://github.com/FWGS/mainui_cpp/releases/tag/continuous) |
+| [Xash3D FWGS (Old Engine)](https://github.com/FWGS/xash3d-fwgs) | [travis](https://github.com/FWGS/xash3d-deploy/tree/travis-master) |
+| [Xash3D iOS (Old Engine)](https://github.com/mittorn/xash3d-ios) | [ios-port](https://github.com/FWGS/xash3d-deploy/tree/ios-port-master) |
+| [Xash3D OSX (Old Engine)](https://github.com/FWGS/xash3d-fwgs) | [z_apple](https://github.com/FWGS/xash3d-deploy/tree/z_apple-master) 
 
 ## Running
 
